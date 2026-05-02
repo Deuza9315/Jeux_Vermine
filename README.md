@@ -22,3 +22,14 @@ Un mini-jeu d'esquive en HTML/CSS/JS pur avec des sprites pixel art animés.
 ### Objectif
 
 Survivre le plus longtemps possible. **Score = temps survécu × 10**
+
+## ⚡ Système de Bonus
+
+Des éléments apparaissent aléatoirement à l'écran toutes les 6-12 secondes :
+
+| Icône | Bonus | Effet | Durée |
+|-------|-------|-------|-------|
+| 🟥   | +Vie  | Restaure une vie | Permanent |
+| 🟦   | ~Ralenti | Tous les ennemis ralentis | 5 secondes |
+| 🔵   | O Bouclier | Invincibilité | 3 secondes |
+| 🟧   | * Bombe | Efface tous les ennemis | Instantané |
