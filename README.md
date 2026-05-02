@@ -46,3 +46,14 @@ Sprite généré sur PixelLab.ai et animé sur Piskel. La tête se balance et le
 
 ### 🕷️ Araignée
 Feuille de sprite 16 images générées sur PixelLab.ai, converties en GIF transparent.
+
+## 🎨 Le Décor
+
+Une ambiance ruelle de banlieue immersive :
+
+- **Mur de briques texturées** avec dégradés CSS
+- **Couches de saleté** avec radial-gradients
+- **Sol sombre et taché**
+- **Deux poubelles** avec ordures qui dépassent
+- **3 graffitis SVG** : chauve-souris, serpent et araignée taggés
+- **Éclaboussures de spray** (rouge sang, noir)
