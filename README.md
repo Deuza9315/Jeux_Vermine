@@ -75,3 +75,44 @@ Tous les effets sonores sont générés **à la volée via la Web Audio API** :
 
 Top 5 des meilleurs scores sauvegardés dans le localStorage.
 Ton score apparaît surligné en jaune s'il rentre dans le classement.
+
+## 🛠️ Stack Technique
+
+- **HTML5** — structure
+- **CSS3** — décor, animations, sprites
+- **JavaScript vanilla** — gameplay, collisions AABB
+- **Web Audio API** — sons générés
+- **localStorage** — sauvegarde scores
+- **SVG inline** — graffitis
+
+✅ **Zéro dépendances**
+✅ **Un seul fichier** (~230 Ko)
+✅ **Jouable hors ligne**
+✅ **Compatible tous navigateurs**
+
+## ✨ Fonctionnalités
+
+- ✅ 3 ennemis avec animations distinctes
+- ✅ Difficulté progressive
+- ✅ 4 types de bonus
+- ✅ Système de vies + invincibilité temporaire
+- ✅ Pseudo joueur sauvegardé
+- ✅ Leaderboard top 5
+- ✅ Sons générés en temps réel
+- ✅ Décor immersif avec graffitis SVG
+- ✅ Hitboxes enrichies
+- ✅ Compatible AZERTY et QWERTY
+
+## 📋 Roadmap Futur
+
+- 📱 Mode mobile avec contrôles tactiles
+- 🎯 Modes de difficulté (Facile/Normal/Hardcore)
+- 👾 Nouveaux ennemis (rat, scorpion, cafard)
+- 🔉 Ambiance sonore de ruelle
+- ✨ Particules visuelles
+- 💥 Animations de mort améliorées
+- 🏅 Boss tous les 1000 points
+
+---
+
+**Besoin d'aide ?** Ouvrez simplement `vermine.html` dans votre navigateur. Pas d'installation requise ! 🎮
