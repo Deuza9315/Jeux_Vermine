@@ -33,3 +33,16 @@ Des éléments apparaissent aléatoirement à l'écran toutes les 6-12 secondes 
 | 🟦   | ~Ralenti | Tous les ennemis ralentis | 5 secondes |
 | 🔵   | O Bouclier | Invincibilité | 3 secondes |
 | 🟧   | * Bombe | Efface tous les ennemis | Instantané |
+
+## 👹 Bestiaire
+
+Trois ennemis viennent te traquer dans la ruelle :
+
+### 🦇 Chauve-souris
+Sprite CSS pur réalisé avec box-shadow formant un pixel art sur 7 frames d'animation.
+
+### 🐍 Serpent à Sonnette
+Sprite généré sur PixelLab.ai et animé sur Piskel. La tête se balance et le corps respire.
+
+### 🕷️ Araignée
+Feuille de sprite 16 images générées sur PixelLab.ai, converties en GIF transparent.
