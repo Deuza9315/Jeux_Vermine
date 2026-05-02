@@ -57,3 +57,21 @@ Une ambiance ruelle de banlieue immersive :
 - **Deux poubelles** avec ordures qui dépassent
 - **3 graffitis SVG** : chauve-souris, serpent et araignée taggés
 - **Éclaboussures de spray** (rouge sang, noir)
+
+## 🔊 Système Sonore
+
+Tous les effets sonores sont générés **à la volée via la Web Audio API** :
+
+| Événement | Effet |
+|-----------|-------|
+| Mort | Oscillateur dents de scie descendant |
+| Coup | Onde carrée courte |
+| Power-up | Square wave montante |
+| Bouclier | Sine montante |
+| Ralentissement | Sine descendante |
+| Bombe | Bruit blanc exponentiel |
+
+## 🏆 Leaderboard
+
+Top 5 des meilleurs scores sauvegardés dans le localStorage.
+Ton score apparaît surligné en jaune s'il rentre dans le classement.
