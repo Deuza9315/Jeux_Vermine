@@ -1,0 +1,35 @@
+{
+  "name": "vermine-game",
+  "version": "1.0.0",
+  "description": "Mini-jeu d'esquive en HTML/CSS/JS pur. Survis aux bestioles dans une ruelle de banlieue.",
+  "main": "vermine.html",
+  "scripts": {
+    "start": "open vermine.html",
+    "serve": "python3 -m http.server 8000",
+    "test": "echo \"No tests yet\"",
+    "build": "echo \"Single HTML file - no build needed\""
+  },
+  "keywords": [
+    "game",
+    "html5",
+    "css3",
+    "javascript",
+    "arcade",
+    "dodging",
+    "pixel-art",
+    "vanilla"
+  ],
+  "author": "Deuza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deuza9315/Jeux_Vermine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deuza9315/Jeux_Vermine/issues"
+  },
+  "homepage": "https://github.com/Deuza9315/Jeux_Vermine#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
